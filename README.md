@@ -26,6 +26,15 @@ PUT /api/reviews/<id>/ - Edit a review
 DELETE /api/reviews/<id>/ - Delete a review
 
 Screenshots
-![image](https://github.com/user-attachments/assets/23a9161a-d87e-497d-8ff9-cc44f6eca54e)
-![image](https://github.com/user-attachments/assets/a1fc7210-1bba-4634-9094-f1f33a2d935f)
+![image](https://github.com/user-attachments/assets/a9516824-72f8-4ac7-9839-fcf3131861de)
+![image](https://github.com/user-attachments/assets/e9dd0b07-7349-420c-b526-51fdddd81f9e)
+![image](https://github.com/user-attachments/assets/98e7d534-2ed3-44b1-b8a2-f84713d34f1d)
+![image](https://github.com/user-attachments/assets/f5cd3777-3ba6-486c-babb-b94d78928a89)
+![image](https://github.com/user-attachments/assets/bec01ac6-3fe4-417d-aa85-908ae7b3325c)
+![image](https://github.com/user-attachments/assets/355d15d1-986f-49d6-bfa3-29b972d54f7c)
+![image](https://github.com/user-attachments/assets/51669df0-66af-40a9-beef-215cebb99000)
+
+
+
+
 
