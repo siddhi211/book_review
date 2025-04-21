@@ -13,40 +13,10 @@ Tech Stack
 Backend: Django, Django REST Framework
 Frontend: React, Axios
 
+
 Getting Started
 
-Backend
-1.
-Clone the repository and navigate to the backend folder:
-cd book-review-backend
-
-2.
-Create and activate a virtual environment:
-python3 -m venv venv
-source venv/bin/activate
-
-3.
-Install dependencies:
-pip install -r requirements.txt
-
-4.
-Run migrations and start the server:
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
-
-Frontend
-1.
-Navigate to the frontend folder:
-cd ../book-review-frontend
-
-2.
-Install dependencies:
-npm install
-
-3.
-Start the React development server:
-npm start
+See the ReadMe files of Backend and frontend
 
 API Endpoints
 GET /api/books/ - List all books (supports filtering by genre/author)
