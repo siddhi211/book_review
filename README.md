@@ -1,4 +1,4 @@
-Book Review Platform
+Book Review Platform -
 A simple full-stack Book Review platform where users can browse a list of books, view book details, and add, edit, or delete reviews for each book.
 
 Features
